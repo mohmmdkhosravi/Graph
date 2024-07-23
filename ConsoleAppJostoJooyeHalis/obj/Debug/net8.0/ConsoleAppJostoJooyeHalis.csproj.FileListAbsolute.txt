@@ -1,0 +1,14 @@
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\bin\Debug\net8.0\ConsoleAppJostoJooyeHalis.exe
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\bin\Debug\net8.0\ConsoleAppJostoJooyeHalis.deps.json
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\bin\Debug\net8.0\ConsoleAppJostoJooyeHalis.runtimeconfig.json
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\bin\Debug\net8.0\ConsoleAppJostoJooyeHalis.dll
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\bin\Debug\net8.0\ConsoleAppJostoJooyeHalis.pdb
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.AssemblyInfoInputs.cache
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.AssemblyInfo.cs
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.csproj.CoreCompileInputs.cache
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.dll
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\refint\ConsoleAppJostoJooyeHalis.dll
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.pdb
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ConsoleAppJostoJooyeHalis.genruntimeconfig.cache
+C:\Users\khosravi\Desktop\.NET myProjects\Quera-practicing\JostoJooyeHalis\ConsoleAppJostoJooyeHalis\ConsoleAppJostoJooyeHalis\obj\Debug\net8.0\ref\ConsoleAppJostoJooyeHalis.dll
