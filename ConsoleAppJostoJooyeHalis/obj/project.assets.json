@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khosravi\\Desktop\\.NET myProjects\\Quera-practicing\\JostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis.csproj",
+      "projectUniqueName": "C:\\Users\\khosravi\\source\\repos\\mohmmdkhosravi\\Graph\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis.csproj",
       "projectName": "ConsoleAppJostoJooyeHalis",
-      "projectPath": "C:\\Users\\khosravi\\Desktop\\.NET myProjects\\Quera-practicing\\JostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis.csproj",
+      "projectPath": "C:\\Users\\khosravi\\source\\repos\\mohmmdkhosravi\\Graph\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis.csproj",
       "packagesPath": "C:\\Users\\khosravi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khosravi\\Desktop\\.NET myProjects\\Quera-practicing\\JostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\ConsoleAppJostoJooyeHalis\\obj\\",
+      "outputPath": "C:\\Users\\khosravi\\source\\repos\\mohmmdkhosravi\\Graph\\ConsoleAppJostoJooyeHalis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khosravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,11 +41,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
